@@ -1,0 +1,9 @@
+c:\users\priyanka\documents\visual studio 2015\Projects\LogFileTestApplication\LogFileTestApplication\bin\Debug\LogFileTestApplication.exe.config
+c:\users\priyanka\documents\visual studio 2015\Projects\LogFileTestApplication\LogFileTestApplication\bin\Debug\LogFileTestApplication.exe
+c:\users\priyanka\documents\visual studio 2015\Projects\LogFileTestApplication\LogFileTestApplication\bin\Debug\LogFileTestApplication.pdb
+c:\users\priyanka\documents\visual studio 2015\Projects\LogFileTestApplication\LogFileTestApplication\obj\Debug\LogFileTestApplication.csprojResolveAssemblyReference.cache
+c:\users\priyanka\documents\visual studio 2015\Projects\LogFileTestApplication\LogFileTestApplication\obj\Debug\LogFileTestApplication.exe
+c:\users\priyanka\documents\visual studio 2015\Projects\LogFileTestApplication\LogFileTestApplication\obj\Debug\LogFileTestApplication.pdb
+C:\Users\Priyanka\Source\Repos\FixMessageCompareUtility\LogFileTestApplication\LogFileTestApplication\bin\Debug\LogFileTestApplication.exe.config
+C:\Users\Priyanka\Source\Repos\FixMessageCompareUtility\LogFileTestApplication\LogFileTestApplication\obj\Debug\LogFileTestApplication.exe
+C:\Users\Priyanka\Source\Repos\FixMessageCompareUtility\LogFileTestApplication\LogFileTestApplication\obj\Debug\LogFileTestApplication.pdb
